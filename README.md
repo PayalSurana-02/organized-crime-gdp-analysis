@@ -1,6 +1,10 @@
 ## Organized Crime & GDP Analysis
 
-This project explores the relationship between organized crime trends and GDP per capita across 193 countries. By merging crime indicators from the Global Initiative dataset with economic data, we examine how national resilience and criminal markets correlate with economic performance.
+This project was developed as part of CIS 9650 – Programming for Analytics course at Baruch College.
+
+This project explores how economic strength (GDP per capita) relates to organized crime activity across 193 countries. We combined global crime and economic datasets, cleaned and merged them using Python, and visualized trends through Seaborn and Plotly. The goal was to identify patterns in criminal markets, resilience scores, and their economic impacts.
+
+We built a linear regression model to uncover key indicators affecting GDP and crime exposure. The analysis revealed significant regional differences and identified governance and trafficking as major influencers.
 
 ### Files Included
 
@@ -15,6 +19,14 @@ This project explores the relationship between organized crime trends and GDP pe
 - Python (pandas, seaborn, plotly, statsmodels)
 - Excel
 - Jupyter Notebook
+
+### What we Did
+
+- Cleaned and merged two Excel datasets (crime + GDP)
+- Used pandas to align country names and prepare data
+- Visualized indicators like heroin trade, human trafficking, and resilience using Seaborn, Plotly, and FacetGrid
+- Ran linear regression using statsmodels to evaluate GDP impact factors
+- Documented findings in an executive summary and presentation
 
 ### Key Insights
 
