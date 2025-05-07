@@ -25,5 +25,6 @@ This project explores the relationship between organized crime trends and GDP pe
 ### Project Report
 
 📥 [Download Executive Summary](Executive%20Summary.pdf)  
+📊 [View Project Presentation](Project%20PPT)
 📎 [View Notebook](crime_gdp_analysis.ipynb)
 
