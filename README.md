@@ -4,8 +4,6 @@ This project was developed as part of CIS 9650 – Programming for Analytics cou
 
 This project explores how economic strength (GDP per capita) relates to organized crime activity across 193 countries. We combined global crime and economic datasets, cleaned and merged them using Python, and visualized trends through Seaborn and Plotly. The goal was to identify patterns in criminal markets, resilience scores, and their economic impacts.
 
-We built a linear regression model to uncover key indicators affecting GDP and crime exposure. The analysis revealed significant regional differences and identified governance and trafficking as major influencers.
-
 ### Files Included
 
 - `crime_gdp_analysis.ipynb`: Python notebook with full analysis and visualizations
