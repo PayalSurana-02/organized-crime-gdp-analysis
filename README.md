@@ -28,9 +28,12 @@ This project explores how economic strength (GDP per capita) relates to organize
 
 ### Key Insights
 
-- GDP shows correlation with national resilience to organized crime
-- Africa and Asia show different patterns in criminal market types
-- Regression models highlight trafficking and governance as major factors
+- Countries with high GDP per capita generally show stronger resilience to organized crime, but correlation is weak overall
+- Heroin trade and human trafficking show strong regional patterns — highest in South Asia and parts of Africa
+- Linear regression showed Resilience has the most statistically significant impact on GDP per capita
+- Europe shows a clearer inverse relation between GDP and criminality compared to Africa or Asia
+- The model explained ~36% of the GDP variance, suggesting other socio-political factors may be at play
+
 
 ### Project Report
 
