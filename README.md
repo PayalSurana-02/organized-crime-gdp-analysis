@@ -25,5 +25,5 @@ This project explores the relationship between organized crime trends and GDP pe
 ### Project Report
 
 📥 [Download Executive Summary](link-to-pdf-in-repo)  
-📎 [View Notebook](link-to-ipynb-in-repo)
+📎 [View Notebook](CIS 9650 Programming For analytics  - Final Project.ipynb)
 
