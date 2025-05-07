@@ -4,11 +4,11 @@ This project explores the relationship between organized crime trends and GDP pe
 
 ### Files Included
 
-- `CIS 9650 Programming Project.ipynb`: Python notebook with full analysis and visualizations
+- `crime_gdp_analysis.ipynb`: Python notebook with full analysis and visualizations
 - `organized_crime.xlsx`: Raw crime dataset
 - `gdp_per_capita.xlsx`: GDP per capita dataset
 - `Executive Summary.pdf`: Brief overview of findings
-- `Programming for Analytics - Final Project.pdf`: Full team presentation and insights
+- `Project PPT.pdf`: Full team presentation and insights
 
 ### Tools Used
 
